@@ -9,7 +9,7 @@
 
 - 🌱 I’m complete learning on **universal informatics**
 
-- 👯 I’m looking to collaborate on **this plateform**
+- 👯 I’m collaborate on **this plateform**
 
 - 💬 Ask me about **ES6 project,es6 contents,etc**
 
