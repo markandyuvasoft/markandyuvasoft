@@ -1,7 +1,7 @@
 ### Hi markand 👋
 
 
-**markandyuvasoft/markandyuvasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**markandyuvasoft/markandyuvasoft** ✨ _welcome_ ✨ 
 
 - 🔭 I’m currently working on yuvasoft solutions private limited
 - 🌱 I’m complete learning  on universal informatics
